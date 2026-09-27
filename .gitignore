@@ -1,0 +1,5 @@
+uploads/*
+!uploads/.gitkeep
+*.log
+*.ps1
+install.php
